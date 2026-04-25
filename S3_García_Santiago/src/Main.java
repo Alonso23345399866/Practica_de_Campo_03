@@ -5,7 +5,7 @@ public class Main {
         Persona p2 = new Persona();
         Persona p3 = new Persona("Alberto", 43, 'M', "Cantar y bailar");
         
-        System.out.println("Conflicto solucionado");
+        System.out.println("Cambios para el pull request");
         
         System.out.println("Ingrese datos: ");
         try{
